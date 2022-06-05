@@ -1,0 +1,64 @@
+.ml-2{
+    margin-left: .5rem!important;
+}
+.me-3{
+    margin-right:10px !important;
+}
+.canle{
+    display: flex;
+    justify-content: space-between;
+}
+.text-center{
+    align-items: center;
+}
+.btn-width-100{
+    width: 150px;
+}
+.text-bold{
+    font-weight: bold;
+}
+.fs-24{
+    font-size: 24px;
+}
+.fs-40{
+    font-size: 30px;
+    font-weight: bold;
+    color: #28a745;
+    margin-bottom: 0px !important;
+}
+.status-connect-text{
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+}
+.bg-white{
+    background-color: #fff;
+}
+.border-green{
+    border-color: #28a745;
+    border-width: 3px;
+}
+.border-none{
+    border:none;
+    padding:0 1.25rem
+}
+.title-area{
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+.pb-0{
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+.border-error{
+    border-color: #ffc107;
+    border-width: 3px;
+}
+#deviceMap{
+    width: 100%;
+    height: calc(100vh - 48px);
+}
+.bg-dark{
+    background-color:#161139 !important;
+}
