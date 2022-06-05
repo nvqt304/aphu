@@ -18,11 +18,11 @@ var mapObj = null;
 
 		let iconRunning = L.icon({
 			iconUrl: "./img/green.png",
-			iconSize: [40,40]
+			iconSize: [40,60]
 		})
 		let iconLost = L.icon({
 			iconUrl: "./img/gray.png",
-			iconSize: [40,40]
+			iconSize: [40,60]
 		})
         var arrLocation = [
             {coordinates: [21.02203554495359, 105.88932424267651],
